@@ -63,8 +63,11 @@ else
 }  
 </script>
 </head>
-<body onload="fun()">
+<body >
+<h1 onclick="fun()">
+
 CLICK ME TO FIND THE RESULT
+</h1>
 </body>
 </html>
 ```
